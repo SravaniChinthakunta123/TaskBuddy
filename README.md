@@ -28,3 +28,6 @@
 - Provide an option to restore or delete tasks from the history, giving users control over their task management.
 
 ---
+UI:
+![WhatsApp Image 2024-12-28 at 15 52 04_08f2e63e](https://github.com/user-attachments/assets/43443cd9-aa34-4c5a-9735-9bd8d8ca3feb)
+
